@@ -114,6 +114,5 @@
 
 <a> 
     <a href="https://github.com/xdkayy"><img alt="xdkayy's Github Stats" src=""/></a>
-  <a href="https://github.com/xdkayy"><img alt="Al Siam's Top Languages" src=/></a>
   <br/>
 </a>
